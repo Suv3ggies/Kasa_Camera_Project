@@ -108,5 +108,5 @@ You are free to reference the documentation for personal, non-commercial educati
 
 ---
 
-*Author: [Jacob Suveges]*  
-*Date: [2025-11-11]*  
+*Author: Jacob Suveges*  
+*Date: 11/11/2025*  
