@@ -70,7 +70,7 @@ The goal is to gain a deeper understanding of the device’s firmware, communica
 - [x] Identified UART interface
 - [x] Identified SPI interface
 - [x] Dumped factor firmware for analysis
-- [ ] Backed up factory firmware safely  
+- [x] Backed up factory firmware safely  
 - [ ] Mapped partition table  
 - [ ] Analyzed boot logs  
 - [ ] Documented network endpoints  
