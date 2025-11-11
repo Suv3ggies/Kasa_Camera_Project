@@ -51,16 +51,14 @@ The goal is to gain a deeper understanding of the device’s firmware, communica
 ---
 
 ## 🧰 Tools Used
-| Tool | Purpose |
+| Hardware Tool | Purpose |
 |------|----------|
-| **Hardware Tools** |
 | CH341A Programmer | SPI flash reading |
 | Oscilloscope | Electrical Analysis |
 | Multimeter | Voltage Verification |
 
-| Tool | Purpose |
+| Software Tool | Purpose |
 |------|----------|
-| ** Software Tools** |
 | Binwalk | Firmware unpacking |
 | strings / hexdump | Binary inspection |
 | Wireshark | Network traffic capture |
