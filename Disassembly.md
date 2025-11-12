@@ -17,7 +17,7 @@ Two potential entry points were identified:
 1. A **connection point** visible within the dome section.  
 2. The **rotational joint** where the motor base connects to the camera assembly.
 
-`![Assembled Camera](https://github.com/Suv3ggies/Kasa_Camera_Project/tree/main/pics/Assembled_Camera.jpeg)`
+![Assembled Camera](https://github.com/Suv3ggies/Kasa_Camera_Project/tree/main/pics/Assembled_Camera.jpeg)
 
 ---
 
