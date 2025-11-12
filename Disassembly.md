@@ -29,8 +29,7 @@ I initially assumed the **PCB (main board)** would be located in this section si
 Despite multiple careful attempts to separate this section, the base did not come apart easily, and no visible clips or screws were accessible.  
 After confirming it was not the correct entry point, I decided to shift focus to the upper dome.
 
-*(Insert image of motor base attempt here)*  
-`![Motor Base Disassembly Attempt](images/base_attempt.jpg)`
+![Motor Base Disassembly Attempt](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1917.jpeg)
 
 ---
 
@@ -38,14 +37,15 @@ After confirming it was not the correct entry point, I decided to shift focus to
 
 With the base proving difficult, I turned attention to the **camera dome**.
 
+![Dome Access Point](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1918.jpeg)
+
 The **white outer dome** and **black internal casing** were visibly separate components.  
 Using a small flathead screwdriver, I carefully pried between the two pieces.  
 This revealed a series of internal clips securing the dome in place.  
 
 With steady pressure, each clip released one by one until the white dome detached completely.
 
-*(Insert image of dome separation process here)*  
-`![Dome Separation](images/dome_separation.jpg)`
+![Dome Separation](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1919.jpeg)
 
 ---
 
@@ -54,14 +54,15 @@ With steady pressure, each clip released one by one until the white dome detache
 After removing the white dome, the **black inner housing** was exposed.  
 This section contained the **motor assembly** and **axle system** that control camera rotation and tilt.
 
+![PCB and Motor](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1920.jpeg)
+
 - The **axles** were gently shifted from their slots to free the motor assembly.  
 - A few **small screws** were removed to separate the motor from the dome.  
 - The **PCB** was located within the black dome, attached via an **8-pin connector**.
 
 The PCB was disconnected by slowly wiggling it loose from the connector, allowing complete removal without damage.
 
-*(Insert image of exposed PCB here)*  
-`![Exposed PCB](images/pcb_exposed.jpg)`
+![Exposed PCB](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1921.jpeg)
 
 ---
 
@@ -76,8 +77,7 @@ Several key observations were noted:
 
 The isolated PCB can now be safely analyzed for further research, including pin mapping, firmware reading, and system identification.
 
-*(Insert image of final disassembled components here)*  
-`![Final Disassembly](images/final_result.jpg)`
+![Final Disassembly](https://github.com/Suv3ggies/Kasa_Camera_Project/blob/main/pics/IMG_1922.jpeg)
 
 ---
 
