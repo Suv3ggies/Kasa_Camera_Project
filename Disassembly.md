@@ -17,8 +17,7 @@ Two potential entry points were identified:
 1. A **connection point** visible within the dome section.  
 2. The **rotational joint** where the motor base connects to the camera assembly.
 
-*(Insert image of intact camera here)*  
-`![Initial Overview](images/overview.jpg)`
+`![Initial Overview](pics/Assembled_Camera.jpeg)`
 
 ---
 
